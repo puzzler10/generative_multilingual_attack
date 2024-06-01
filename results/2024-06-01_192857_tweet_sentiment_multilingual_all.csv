@@ -1,0 +1,6 @@
+"original_text","perturbed_text","original_score","perturbed_score","original_output","perturbed_output","ground_truth_output","num_queries","result_type"
+"Hora de seguir soñando muy bonito","Hora de seguir soñando muy malo",0.20596522092819214,0.8976253271102905,2,0,2,57,"Successful"
+"@user Ja! Scheiße geil.","@user Ja! Scheiße nicht.",0.44114458560943604,0.8183257579803467,2,0,2,54,"Successful"
+"@user Halt rein! :-D","@user Halt Control! :-and",0.09464389085769653,0.7322193384170532,2,1,2,100,"Successful"
+"@user tia eso es muy raro","@user tia eso es muy buena",0.43116289377212524,0.9105174541473389,0,2,0,57,"Successful"
+"Wilde Parker blockieren Rettungswege: http","Wilde Parker blockieren Rettungswege: [UNK]",0.3167639970779419,0.7508800625801086,1,0,1,38,"Successful"

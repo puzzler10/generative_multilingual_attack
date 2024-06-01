@@ -1,0 +1,6 @@
+,idx,lang,label,original_text,perturbed_text,original_score,perturbed_score,original_output,perturbed_output,ground_truth_output,num_queries,result_type,label_flip,flu,langscore,sim,vsr_f11_l50_s60,vsr_f12_l50_s60
+0,1751,es,2,Hora de seguir soñando muy bonito,Hora de seguir soñando muy malo,0.2059652209281921,0.8976253271102905,2,0,2,57,Successful,1,-9.354449272155762,0.9507842469182736,0.9591686129570007,1,1
+1,1274,de,2,@user Ja! Scheiße geil.,@user Ja! Scheiße nicht.,0.441144585609436,0.8183257579803467,2,0,2,54,Successful,1,-8.471017837524414,0.9885704555670702,0.9019142985343933,1,1
+2,1685,de,2,@user Halt rein! :-D,@user Halt Control! :-and,0.0946438908576965,0.7322193384170532,2,1,2,100,Successful,1,-10.838611602783203,0.418272772944313,0.8839035034179688,0,0
+3,1911,es,0,@user tia eso es muy raro,@user tia eso es muy buena,0.4311628937721252,0.9105174541473388,0,2,0,57,Successful,1,-9.217496871948242,0.6657800950533757,0.9489490985870361,1,1
+4,1066,de,1,Wilde Parker blockieren Rettungswege: http,Wilde Parker blockieren Rettungswege: [UNK],0.3167639970779419,0.7508800625801086,1,0,1,38,Successful,1,-7.6115031242370605,0.9959768585645595,0.9095056056976318,1,1
